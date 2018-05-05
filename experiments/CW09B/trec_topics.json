@@ -1,0 +1,1802 @@
+[
+  {
+    "qid": "1", 
+    "desc": "Find information on President Barack Obama's family history, including genealogy, national origins, places and dates of birth, etc.", 
+    "processed": {
+      "desc": "find information president barack obama s family history genealogy national origins places dates birth", 
+      "title": "obama family tree"
+    }, 
+    "title": "obama family tree"
+  }, 
+  {
+    "qid": "2", 
+    "desc": "Find information on French Lick Resort and Casino in Indiana.", 
+    "processed": {
+      "desc": "find information french lick resort casino indiana", 
+      "title": "french lick resort casino"
+    }, 
+    "title": "french lick resort and casino"
+  }, 
+  {
+    "qid": "3", 
+    "desc": "Find tips, resources, supplies for getting organized and reducing clutter.", 
+    "processed": {
+      "desc": "find tips resources supplies getting organized reducing clutter", 
+      "title": "getting organized"
+    }, 
+    "title": "getting organized"
+  }, 
+  {
+    "qid": "4", 
+    "desc": "Find information on buying, installing, and repairing toilets.", 
+    "processed": {
+      "desc": "find information buying installing repairing toilets", 
+      "title": "toilet"
+    }, 
+    "title": "toilet"
+  }, 
+  {
+    "qid": "5", 
+    "desc": "Find information about Mitchell College in New London, CT, such as a prospective student might find useful.", 
+    "processed": {
+      "desc": "find information mitchell college new london ct prospective student find useful", 
+      "title": "mitchell college"
+    }, 
+    "title": "mitchell college"
+  }, 
+  {
+    "qid": "6", 
+    "desc": "Find information on the Kansas City Southern railroad.", 
+    "processed": {
+      "desc": "find information kansas city southern railroad", 
+      "title": "kcs"
+    }, 
+    "title": "kcs"
+  }, 
+  {
+    "qid": "7", 
+    "desc": "Find information on air travel, airports, and airline companies.", 
+    "processed": {
+      "desc": "find information air travel airports airline companies", 
+      "title": "air travel information"
+    }, 
+    "title": "air travel information"
+  }, 
+  {
+    "qid": "8", 
+    "desc": "How are home values appraised? I want to know how home appraisals are done.", 
+    "processed": {
+      "desc": "home values appraised know home appraisals done", 
+      "title": "appraisals"
+    }, 
+    "title": "appraisals"
+  }, 
+  {
+    "qid": "9", 
+    "desc": "I am looking for sources for parts for cars, preferably used.", 
+    "processed": {
+      "desc": "looking sources parts cars preferably", 
+      "title": "car parts"
+    }, 
+    "title": "used car parts"
+  }, 
+  {
+    "qid": "10", 
+    "desc": "I'm looking for cheap (i.e. low-cost) internet service.", 
+    "processed": {
+      "desc": "m looking cheap e low cost internet service", 
+      "title": "cheap internet"
+    }, 
+    "title": "cheap internet"
+  }, 
+  {
+    "qid": "11", 
+    "desc": "I'm looking for information to help me prepare for the GMAT exam.", 
+    "processed": {
+      "desc": "m looking information help prepare gmat exam", 
+      "title": "gmat prep classes"
+    }, 
+    "title": "gmat prep classes"
+  }, 
+  {
+    "qid": "12", 
+    "desc": "I'm looking to hire a disc jockey.", 
+    "processed": {
+      "desc": "m looking hire disc jockey", 
+      "title": "djs"
+    }, 
+    "title": "djs"
+  }, 
+  {
+    "qid": "13", 
+    "desc": "I'm looking for online mapping sites.", 
+    "processed": {
+      "desc": "m looking online mapping sites", 
+      "title": "map"
+    }, 
+    "title": "map"
+  }, 
+  {
+    "qid": "14", 
+    "desc": "I want to find information about and pictures of dinosaurs.", 
+    "processed": {
+      "desc": "find information pictures dinosaurs", 
+      "title": "dinosaurs"
+    }, 
+    "title": "dinosaurs"
+  }, 
+  {
+    "qid": "15", 
+    "desc": "I'm looking for various sports scores and information from the ESPN Sports site.", 
+    "processed": {
+      "desc": "m looking various sports scores information espn sports site", 
+      "title": "espn sports"
+    }, 
+    "title": "espn sports"
+  }, 
+  {
+    "qid": "16", 
+    "desc": "I'm looking for information about fishing and hunting in Arizona.", 
+    "processed": {
+      "desc": "m looking information fishing hunting arizona", 
+      "title": "arizona game fish"
+    }, 
+    "title": "arizona game and fish"
+  }, 
+  {
+    "qid": "17", 
+    "desc": "I want to find information about live and online poker tournaments.", 
+    "processed": {
+      "desc": "find information live online poker tournaments", 
+      "title": "poker tournaments"
+    }, 
+    "title": "poker tournaments"
+  }, 
+  {
+    "qid": "18", 
+    "desc": "I'm looking for information on planning and budgeting for a wedding.", 
+    "processed": {
+      "desc": "m looking information planning budgeting wedding", 
+      "title": "wedding budget calculator"
+    }, 
+    "title": "wedding budget calculator"
+  }, 
+  {
+    "qid": "19", 
+    "desc": "I'm looking for the homepage of The Current, a program on Minnesota Public Radio.", 
+    "processed": {
+      "desc": "m looking homepage current program minnesota public radio", 
+      "title": "current"
+    }, 
+    "title": "the current"
+  }, 
+  {
+    "qid": "20", 
+    "desc": "I'm looking for the homepage of Windows Defender, an anti-spyware program.", 
+    "processed": {
+      "desc": "m looking homepage windows defender anti spyware program", 
+      "title": "defender"
+    }, 
+    "title": "defender"
+  }, 
+  {
+    "qid": "21", 
+    "desc": "I'm looking for information on Volvo cars and trucks.", 
+    "processed": {
+      "desc": "m looking information volvo cars trucks", 
+      "title": "volvo"
+    }, 
+    "title": "volvo"
+  }, 
+  {
+    "qid": "22", 
+    "desc": "I'm looking for information on Rick Warren, the evangelical minister.", 
+    "processed": {
+      "desc": "m looking information rick warren evangelical minister", 
+      "title": "rick warren"
+    }, 
+    "title": "rick warren"
+  }, 
+  {
+    "qid": "23", 
+    "desc": "I'm looking for different sites hosted by Yahoo!", 
+    "processed": {
+      "desc": "m looking different sites hosted yahoo", 
+      "title": "yahoo"
+    }, 
+    "title": "yahoo"
+  }, 
+  {
+    "qid": "24", 
+    "desc": "Find information on diversity, both culturally and in the workplace.", 
+    "processed": {
+      "desc": "find information diversity culturally workplace", 
+      "title": "diversity"
+    }, 
+    "title": "diversity"
+  }, 
+  {
+    "qid": "25", 
+    "desc": "Find information on the Greek mathematician Euclid.", 
+    "processed": {
+      "desc": "find information greek mathematician euclid", 
+      "title": "euclid"
+    }, 
+    "title": "euclid"
+  }, 
+  {
+    "qid": "26", 
+    "desc": "How can I lower my heart rate?", 
+    "processed": {
+      "desc": "lower heart rate", 
+      "title": "lower heart rate"
+    }, 
+    "title": "lower heart rate"
+  }, 
+  {
+    "qid": "27", 
+    "desc": "Find information about the coffee company Starbucks.", 
+    "processed": {
+      "desc": "find information coffee company starbucks", 
+      "title": "starbucks"
+    }, 
+    "title": "starbucks"
+  }, 
+  {
+    "qid": "28", 
+    "desc": "Find information about InuYasha, the Japanese comic book and animated cartoon franchise.", 
+    "processed": {
+      "desc": "find information inuyasha japanese comic book animated cartoon franchise", 
+      "title": "inuyasha"
+    }, 
+    "title": "inuyasha"
+  }, 
+  {
+    "qid": "29", 
+    "desc": "Find information, reviews, and cheat codes for Playstation 2 games.", 
+    "processed": {
+      "desc": "find information reviews cheat codes playstation 2 games", 
+      "title": "ps 2 games"
+    }, 
+    "title": "ps 2 games"
+  }, 
+  {
+    "qid": "30", 
+    "desc": "I'm looking for online resources to learn and teach others about diabetes.", 
+    "processed": {
+      "desc": "m looking online resources learn teach diabetes", 
+      "title": "diabetes education"
+    }, 
+    "title": "diabetes education"
+  }, 
+  {
+    "qid": "31", 
+    "desc": "Find information about Atari, its game consoles and games.", 
+    "processed": {
+      "desc": "find information atari game consoles games", 
+      "title": "atari"
+    }, 
+    "title": "atari"
+  }, 
+  {
+    "qid": "32", 
+    "desc": "I'm looking for information on designing a business website and finding hosting for it.", 
+    "processed": {
+      "desc": "m looking information designing business website finding hosting", 
+      "title": "website design hosting"
+    }, 
+    "title": "website design hosting"
+  }, 
+  {
+    "qid": "33", 
+    "desc": "Find information about elliptical trainer machines.", 
+    "processed": {
+      "desc": "find information elliptical trainer machines", 
+      "title": "elliptical trainer"
+    }, 
+    "title": "elliptical trainer"
+  }, 
+  {
+    "qid": "34", 
+    "desc": "Find information about cell phones and cellular service providers.", 
+    "processed": {
+      "desc": "find information cell phones cellular service providers", 
+      "title": "cell phones"
+    }, 
+    "title": "cell phones"
+  }, 
+  {
+    "qid": "35", 
+    "desc": "Find information on the city of Hoboken, New Jersey.", 
+    "processed": {
+      "desc": "find information city hoboken new jersey", 
+      "title": "hoboken"
+    }, 
+    "title": "hoboken"
+  }, 
+  {
+    "qid": "36", 
+    "desc": "I'm looking for information about and comparisons of GPS receivers.", 
+    "processed": {
+      "desc": "m looking information comparisons gps receivers", 
+      "title": "gps"
+    }, 
+    "title": "gps"
+  }, 
+  {
+    "qid": "37", 
+    "desc": "Find out about hosting a cooking show from The Pampered Chef", 
+    "processed": {
+      "desc": "find hosting cooking show pampered chef", 
+      "title": "pampered chef"
+    }, 
+    "title": "pampered chef"
+  }, 
+  {
+    "qid": "38", 
+    "desc": "I want to adopt a dog. Where can I do that and what should I know?", 
+    "processed": {
+      "desc": "adopt dog know", 
+      "title": "dogs adoption"
+    }, 
+    "title": "dogs for adoption"
+  }, 
+  {
+    "qid": "39", 
+    "desc": "Find information about hotels near Disneyland in Anaheim, California.", 
+    "processed": {
+      "desc": "find information hotels near disneyland anaheim california", 
+      "title": "disneyland hotel"
+    }, 
+    "title": "disneyland hotel"
+  }, 
+  {
+    "qid": "40", 
+    "desc": "Find information on getting a job in Michigan.", 
+    "processed": {
+      "desc": "find information getting job michigan", 
+      "title": "michworks"
+    }, 
+    "title": "michworks"
+  }, 
+  {
+    "qid": "41", 
+    "desc": "Looking for information about the Orange County Convention Center in Orlando, Florida.", 
+    "processed": {
+      "desc": "looking information orange county convention center orlando florida", 
+      "title": "orange county convention center"
+    }, 
+    "title": "orange county convention center"
+  }, 
+  {
+    "qid": "42", 
+    "desc": "Find songs, lyrics, music, and information about the musical The Music Man", 
+    "processed": {
+      "desc": "find songs lyrics music information musical music man", 
+      "title": "music man"
+    }, 
+    "title": "the music man"
+  }, 
+  {
+    "qid": "43", 
+    "desc": "Find information and reviews about The Secret Garden book by Frances Hodgson Burnett, as well as movies and the musical based on it.", 
+    "processed": {
+      "desc": "find information reviews secret garden book frances hodgson burnett movies musical based", 
+      "title": "secret garden"
+    }, 
+    "title": "the secret garden"
+  }, 
+  {
+    "qid": "44", 
+    "desc": "Find maps of the United States.", 
+    "processed": {
+      "desc": "find maps united states", 
+      "title": "map united states"
+    }, 
+    "title": "map of the united states"
+  }, 
+  {
+    "qid": "45", 
+    "desc": "Find information about solar panels and companies that manufacture them.", 
+    "processed": {
+      "desc": "find information solar panels companies manufacture", 
+      "title": "solar panels"
+    }, 
+    "title": "solar panels"
+  }, 
+  {
+    "qid": "46", 
+    "desc": "Find information about the Alexian Brothers and hospitals they run.", 
+    "processed": {
+      "desc": "find information alexian brothers hospitals run", 
+      "title": "alexian brothers hospital"
+    }, 
+    "title": "alexian brothers hospital"
+  }, 
+  {
+    "qid": "47", 
+    "desc": "I'm looking for information about indexed annuities.", 
+    "processed": {
+      "desc": "m looking information indexed annuities", 
+      "title": "indexed annuity"
+    }, 
+    "title": "indexed annuity"
+  }, 
+  {
+    "qid": "48", 
+    "desc": "Find information about Wilson CB antennas.", 
+    "processed": {
+      "desc": "find information wilson cb antennas", 
+      "title": "wilson antenna"
+    }, 
+    "title": "wilson antenna"
+  }, 
+  {
+    "qid": "49", 
+    "desc": "I am looking for flame graphics to use on a website.", 
+    "processed": {
+      "desc": "looking flame graphics website", 
+      "title": "flame designs"
+    }, 
+    "title": "flame designs"
+  }, 
+  {
+    "qid": "50", 
+    "desc": "What is the effect of excessive heat on dogs?", 
+    "processed": {
+      "desc": "effect excessive heat dogs", 
+      "title": "dog heat"
+    }, 
+    "title": "dog heat"
+  }, 
+  {
+    "qid": "51", 
+    "desc": "Find information about horse hooves, their care, and diseases of hooves.", 
+    "processed": {
+      "desc": "find information horse hooves care diseases hooves", 
+      "title": "horse hooves"
+    }, 
+    "title": "horse hooves"
+  }, 
+  {
+    "qid": "52", 
+    "desc": "Find information about events sponsored by AVP, the Association of Volleyball Professionals.", 
+    "processed": {
+      "desc": "find information events sponsored avp association volleyball professionals", 
+      "title": "avp"
+    }, 
+    "title": "avp"
+  }, 
+  {
+    "qid": "53", 
+    "desc": "Find locations and information about Discovery Channel stores and types of products they sell.", 
+    "processed": {
+      "desc": "find locations information discovery channel stores types products sell", 
+      "title": "discovery channel store"
+    }, 
+    "title": "discovery channel store"
+  }, 
+  {
+    "qid": "54", 
+    "desc": "Find information about the office of President of the United States.", 
+    "processed": {
+      "desc": "find information office president united states", 
+      "title": "president united states"
+    }, 
+    "title": "president of the united states"
+  }, 
+  {
+    "qid": "55", 
+    "desc": "Find information about iron as an essential nutrient.", 
+    "processed": {
+      "desc": "find information iron essential nutrient", 
+      "title": "iron"
+    }, 
+    "title": "iron"
+  }, 
+  {
+    "qid": "56", 
+    "desc": "Find information on the USS Yorktown, an aircraft carrier that is part of the museum exhibit at the Patriots Point museum in Charleston Harbor, SC.", 
+    "processed": {
+      "desc": "find information uss yorktown aircraft carrier part museum exhibit patriots point museum charleston harbor sc", 
+      "title": "uss yorktown charleston sc"
+    }, 
+    "title": "uss yorktown charleston sc"
+  }, 
+  {
+    "qid": "57", 
+    "desc": "Find information about jobs in Connecticut.", 
+    "processed": {
+      "desc": "find information jobs connecticut", 
+      "title": "ct jobs"
+    }, 
+    "title": "ct jobs"
+  }, 
+  {
+    "qid": "58", 
+    "desc": "Find information about penguins.", 
+    "processed": {
+      "desc": "find information penguins", 
+      "title": "penguins"
+    }, 
+    "title": "penguins"
+  }, 
+  {
+    "qid": "59", 
+    "desc": "How do I go about building a fence myself?", 
+    "processed": {
+      "desc": "building fence", 
+      "title": "build fence"
+    }, 
+    "title": "how to build a fence"
+  }, 
+  {
+    "qid": "60", 
+    "desc": "Find information about Bellevue, Washington.", 
+    "processed": {
+      "desc": "find information bellevue washington", 
+      "title": "bellevue"
+    }, 
+    "title": "bellevue"
+  }, 
+  {
+    "qid": "61", 
+    "desc": "Find information about computer worms, viruses, and spyware.", 
+    "processed": {
+      "desc": "find information computer worms viruses spyware", 
+      "title": "worm"
+    }, 
+    "title": "worm"
+  }, 
+  {
+    "qid": "62", 
+    "desc": "Find information about the U.S. Customs and Border Patrol along the Texas border with Mexico.", 
+    "processed": {
+      "desc": "find information u s customs border patrol texas border mexico", 
+      "title": "texas border patrol"
+    }, 
+    "title": "texas border patrol"
+  }, 
+  {
+    "qid": "63", 
+    "desc": "Find information about Flushing, a neighborhood in New York City.", 
+    "processed": {
+      "desc": "find information flushing neighborhood new york city", 
+      "title": "flushing"
+    }, 
+    "title": "flushing"
+  }, 
+  {
+    "qid": "64", 
+    "desc": "Find information about and pictures of moths and butterflies.", 
+    "processed": {
+      "desc": "find information pictures moths butterflies", 
+      "title": "moths"
+    }, 
+    "title": "moths"
+  }, 
+  {
+    "qid": "65", 
+    "desc": "Find information and resources on the Korean language.", 
+    "processed": {
+      "desc": "find information resources korean language", 
+      "title": "korean language"
+    }, 
+    "title": "korean language"
+  }, 
+  {
+    "qid": "66", 
+    "desc": "How can I file my Federal income tax return online?", 
+    "processed": {
+      "desc": "file federal income tax return online", 
+      "title": "income tax return online"
+    }, 
+    "title": "income tax return online"
+  }, 
+  {
+    "qid": "67", 
+    "desc": "Find information about VLDL or very-low-density lipoprotein, a type of cholesterol.", 
+    "processed": {
+      "desc": "find information vldl low density lipoprotein type cholesterol", 
+      "title": "vldl levels"
+    }, 
+    "title": "vldl levels"
+  }, 
+  {
+    "qid": "68", 
+    "desc": "Find information about PVC pipes and fittings.", 
+    "processed": {
+      "desc": "find information pvc pipes fittings", 
+      "title": "pvc"
+    }, 
+    "title": "pvc"
+  }, 
+  {
+    "qid": "69", 
+    "desc": "Find beginners instructions to sewing, both by hand and by machine.", 
+    "processed": {
+      "desc": "find beginners instructions sewing hand machine", 
+      "title": "sewing instructions"
+    }, 
+    "title": "sewing instructions"
+  }, 
+  {
+    "qid": "70", 
+    "desc": "Find information related to Hamlet's famous \"To be or not to be\" soliloquy.", 
+    "processed": {
+      "desc": "find information related hamlet s famous soliloquy", 
+      "title": "question"
+    }, 
+    "title": "to be or not to be that is the question"
+  }, 
+  {
+    "qid": "71", 
+    "desc": "Find information about living in India.", 
+    "processed": {
+      "desc": "find information living india", 
+      "title": "living india"
+    }, 
+    "title": "living in india"
+  }, 
+  {
+    "qid": "72", 
+    "desc": "Find information about the Sun, the star in our Solar System.", 
+    "processed": {
+      "desc": "find information sun star solar system", 
+      "title": "sun"
+    }, 
+    "title": "the sun"
+  }, 
+  {
+    "qid": "73", 
+    "desc": "Find music, tour dates, and information about the musician Neil Young.", 
+    "processed": {
+      "desc": "find music tour dates information musician neil young", 
+      "title": "neil young"
+    }, 
+    "title": "neil young"
+  }, 
+  {
+    "qid": "74", 
+    "desc": "Find information on kiwi fruit.", 
+    "processed": {
+      "desc": "find information kiwi fruit", 
+      "title": "kiwi"
+    }, 
+    "title": "kiwi"
+  }, 
+  {
+    "qid": "75", 
+    "desc": "Find information about tornadoes, what causes them, and where they occur.", 
+    "processed": {
+      "desc": "find information tornadoes causes occur", 
+      "title": "tornadoes"
+    }, 
+    "title": "tornadoes"
+  }, 
+  {
+    "qid": "76", 
+    "desc": "Find information on raised garden beds and boxes.", 
+    "processed": {
+      "desc": "find information raised garden beds boxes", 
+      "title": "raised gardens"
+    }, 
+    "title": "raised gardens"
+  }, 
+  {
+    "qid": "77", 
+    "desc": "Find dealers that sell or rent Bobcat tractors and construction equipment.", 
+    "processed": {
+      "desc": "find dealers sell rent bobcat tractors construction equipment", 
+      "title": "bobcat"
+    }, 
+    "title": "bobcat"
+  }, 
+  {
+    "qid": "78", 
+    "desc": "Find \"reasonable\" dieting advice, that is not fads or medications but reasonable methods for weight loss.", 
+    "processed": {
+      "desc": "find reasonable dieting advice fads medications reasonable methods weight loss", 
+      "title": "dieting"
+    }, 
+    "title": "dieting"
+  }, 
+  {
+    "qid": "79", 
+    "desc": "Find information about the NASA Voyager spacecraft and missions.", 
+    "processed": {
+      "desc": "find information nasa voyager spacecraft missions", 
+      "title": "voyager"
+    }, 
+    "title": "voyager"
+  }, 
+  {
+    "qid": "80", 
+    "desc": "Find reviews of computer keyboards.", 
+    "processed": {
+      "desc": "find reviews computer keyboards", 
+      "title": "keyboard reviews"
+    }, 
+    "title": "keyboard reviews"
+  }, 
+  {
+    "qid": "81", 
+    "desc": "Find information about Afghanistan's history, government, religion, and culture.", 
+    "processed": {
+      "desc": "find information afghanistan s history government religion culture", 
+      "title": "afghanistan"
+    }, 
+    "title": "afghanistan"
+  }, 
+  {
+    "qid": "82", 
+    "desc": "Find information about joints in the human body.", 
+    "processed": {
+      "desc": "find information joints human body", 
+      "title": "joints"
+    }, 
+    "title": "joints"
+  }, 
+  {
+    "qid": "83", 
+    "desc": "Find information about human memory.", 
+    "processed": {
+      "desc": "find information human memory", 
+      "title": "memory"
+    }, 
+    "title": "memory"
+  }, 
+  {
+    "qid": "84", 
+    "desc": "Find information on plate tectonics and the major continental plates.", 
+    "processed": {
+      "desc": "find information plate tectonics major continental plates", 
+      "title": "continental plates"
+    }, 
+    "title": "continental plates"
+  }, 
+  {
+    "qid": "85", 
+    "desc": "Find information from the Milwaukee Journal Sentinel.", 
+    "processed": {
+      "desc": "find information milwaukee journal sentinel", 
+      "title": "milwaukee journal sentinel"
+    }, 
+    "title": "milwaukee journal sentinel"
+  }, 
+  {
+    "qid": "86", 
+    "desc": "Find information about the BART (Bay Area Rapid Transit) system in San Francisco.", 
+    "processed": {
+      "desc": "find information bart bay area rapid transit system san francisco", 
+      "title": "bart sf"
+    }, 
+    "title": "bart sf"
+  }, 
+  {
+    "qid": "87", 
+    "desc": "Find information on the history of music.", 
+    "processed": {
+      "desc": "find information history music", 
+      "title": "invented music"
+    }, 
+    "title": "who invented music"
+  }, 
+  {
+    "qid": "88", 
+    "desc": "Where can I find information about forearm pain?", 
+    "processed": {
+      "desc": "find information forearm pain", 
+      "title": "forearm pain"
+    }, 
+    "title": "forearm pain"
+  }, 
+  {
+    "qid": "89", 
+    "desc": "Find information on obsessive-compulsive disorder.", 
+    "processed": {
+      "desc": "find information obsessive compulsive disorder", 
+      "title": "ocd"
+    }, 
+    "title": "ocd"
+  }, 
+  {
+    "qid": "90", 
+    "desc": "Find information on the MGB sports car.", 
+    "processed": {
+      "desc": "find information mgb sports car", 
+      "title": "mgb"
+    }, 
+    "title": "mgb"
+  }, 
+  {
+    "qid": "91", 
+    "desc": "Find information about the television show \"ER\".", 
+    "processed": {
+      "desc": "find information television show er", 
+      "title": "er tv show"
+    }, 
+    "title": "er tv show"
+  }, 
+  {
+    "qid": "92", 
+    "desc": "Find information about the Pink Floyd album, \"The Wall\"", 
+    "processed": {
+      "desc": "find information pink floyd album wall", 
+      "title": "wall"
+    }, 
+    "title": "the wall"
+  }, 
+  {
+    "qid": "93", 
+    "desc": "Find the homepage of Raffles Hotel in Singapore.", 
+    "processed": {
+      "desc": "find homepage raffles hotel singapore", 
+      "title": "raffles"
+    }, 
+    "title": "raffles"
+  }, 
+  {
+    "qid": "94", 
+    "desc": "Find information on the Nissan Titan truck.", 
+    "processed": {
+      "desc": "find information nissan titan truck", 
+      "title": "titan"
+    }, 
+    "title": "titan"
+  }, 
+  {
+    "qid": "95", 
+    "desc": "What is behind various \"earn money at home\" scams?", 
+    "processed": {
+      "desc": "various earn money home scams", 
+      "title": "earn money home"
+    }, 
+    "title": "earn money at home"
+  }, 
+  {
+    "qid": "96", 
+    "desc": "Find recipes for rice.", 
+    "processed": {
+      "desc": "find recipes rice", 
+      "title": "rice"
+    }, 
+    "title": "rice"
+  }, 
+  {
+    "qid": "97", 
+    "desc": "Find information about the history, culture, and geography of South Africa", 
+    "processed": {
+      "desc": "find information history culture geography south africa", 
+      "title": "south africa"
+    }, 
+    "title": "south africa"
+  }, 
+  {
+    "qid": "98", 
+    "desc": "Find information on taking the SAT college entrance exam.", 
+    "processed": {
+      "desc": "find information taking sat college entrance exam", 
+      "title": "sat"
+    }, 
+    "title": "sat"
+  }, 
+  {
+    "qid": "99", 
+    "desc": "Find background information about man-made satellites.", 
+    "processed": {
+      "desc": "find background information man made satellites", 
+      "title": "satellite"
+    }, 
+    "title": "satellite"
+  }, 
+  {
+    "qid": "100", 
+    "desc": "Find information about Rincon, Puerto Rico.", 
+    "processed": {
+      "desc": "find information rincon puerto rico", 
+      "title": "rincon puerto rico"
+    }, 
+    "title": "rincon puerto rico"
+  }, 
+  {
+    "qid": "101", 
+    "desc": "Find information about the Ritz Carlton resort at Lake Las Vegas.", 
+    "processed": {
+      "desc": "find information ritz carlton resort lake las vegas", 
+      "title": "ritz carlton lake las vegas"
+    }, 
+    "title": "ritz carlton lake las vegas"
+  }, 
+  {
+    "qid": "102", 
+    "desc": "Find general information about Fickle Creek Farm in North Carolina", 
+    "processed": {
+      "desc": "find general information fickle creek farm north carolina", 
+      "title": "fickle creek farm"
+    }, 
+    "title": "fickle creek farm"
+  }, 
+  {
+    "qid": "103", 
+    "desc": "Find historical information about Madam C. J. Walker.", 
+    "processed": {
+      "desc": "find historical information madam c j walker", 
+      "title": "madam cj walker"
+    }, 
+    "title": "madam cj walker"
+  }, 
+  {
+    "qid": "104", 
+    "desc": "Find the official legal rules and procedures pertaining to child support in Indiana.", 
+    "processed": {
+      "desc": "find official legal rules procedures pertaining child support indiana", 
+      "title": "indiana child support"
+    }, 
+    "title": "indiana child support"
+  }, 
+  {
+    "qid": "105", 
+    "desc": "What medical services are available in Sonoma County, California?", 
+    "processed": {
+      "desc": "medical services available sonoma county california", 
+      "title": "sonoma county medical services"
+    }, 
+    "title": "sonoma county medical services"
+  }, 
+  {
+    "qid": "106", 
+    "desc": "Find testimonials of Universal Animal Cuts nutritional supplement.", 
+    "processed": {
+      "desc": "find testimonials universal animal cuts nutritional supplement", 
+      "title": "universal animal cuts reviews"
+    }, 
+    "title": "universal animal cuts reviews"
+  }, 
+  {
+    "qid": "107", 
+    "desc": "Find demographic information about Cass County, MO.", 
+    "processed": {
+      "desc": "find demographic information cass county mo", 
+      "title": "cass county missouri"
+    }, 
+    "title": "cass county missouri"
+  }, 
+  {
+    "qid": "108", 
+    "desc": "Find biographical information about Ralph Owen Brester.", 
+    "processed": {
+      "desc": "find biographical information ralph owen brester", 
+      "title": "ralph owen brewster"
+    }, 
+    "title": "ralph owen brewster"
+  }, 
+  {
+    "qid": "109", 
+    "desc": "What medical services are available at the Mayo Clinic in Jacksonville, FL?", 
+    "processed": {
+      "desc": "medical services available mayo clinic jacksonville fl", 
+      "title": "mayo clinic jacksonville fl"
+    }, 
+    "title": "mayo clinic jacksonville fl"
+  }, 
+  {
+    "qid": "110", 
+    "desc": "What are the boundaries of the political jurisdictions in Brazil?", 
+    "processed": {
+      "desc": "boundaries political jurisdictions brazil", 
+      "title": "map brazil"
+    }, 
+    "title": "map of brazil"
+  }, 
+  {
+    "qid": "111", 
+    "desc": "What treatments are available for dogs diagnosed with lymphoma?", 
+    "processed": {
+      "desc": "treatments available dogs diagnosed lymphoma", 
+      "title": "lymphoma dogs"
+    }, 
+    "title": "lymphoma in dogs"
+  }, 
+  {
+    "qid": "112", 
+    "desc": "reviews of Kenmore gas water heaters", 
+    "processed": {
+      "desc": "reviews kenmore gas water heaters", 
+      "title": "kenmore gas water heater"
+    }, 
+    "title": "kenmore gas water heater"
+  }, 
+  {
+    "qid": "113", 
+    "desc": "retailers, including price information, of the HP Mini 2140 notebook computer", 
+    "processed": {
+      "desc": "retailers price information hp mini 2140 notebook computer", 
+      "title": "hp mini 2140"
+    }, 
+    "title": "hp mini 2140"
+  }, 
+  {
+    "qid": "114", 
+    "desc": "How does one build an adobe house?", 
+    "processed": {
+      "desc": "build adobe house", 
+      "title": "adobe indian houses"
+    }, 
+    "title": "adobe indian houses"
+  }, 
+  {
+    "qid": "115", 
+    "desc": "career opportunities at PNL: what openings are currently available, what educational background is required, what prior experience is needed", 
+    "processed": {
+      "desc": "career opportunities pnl openings currently available educational background required prior experience needed", 
+      "title": "pacific northwest laboratory"
+    }, 
+    "title": "pacific northwest laboratory"
+  }, 
+  {
+    "qid": "116", 
+    "desc": "Find information about the California Franchise Tax Board.", 
+    "processed": {
+      "desc": "find information california franchise tax board", 
+      "title": "california franchise tax board"
+    }, 
+    "title": "california franchise tax board"
+  }, 
+  {
+    "qid": "117", 
+    "desc": "What specific health problems arise from exposure to asbestos?", 
+    "processed": {
+      "desc": "specific health problems arise exposure asbestos", 
+      "title": "dangers asbestos"
+    }, 
+    "title": "dangers of asbestos"
+  }, 
+  {
+    "qid": "118", 
+    "desc": "What is \"Poem in Your Pocket Day\"?", 
+    "processed": {
+      "desc": "poem pocket", 
+      "title": "poem pocket"
+    }, 
+    "title": "poem in your pocket day"
+  }, 
+  {
+    "qid": "119", 
+    "desc": "Get help on writing a thank-you letter after a job interview.", 
+    "processed": {
+      "desc": "help writing thank letter job interview", 
+      "title": "interview thank"
+    }, 
+    "title": "interview thank you"
+  }, 
+  {
+    "qid": "120", 
+    "desc": "Looking for information on how to watch television programming on your computer.", 
+    "processed": {
+      "desc": "looking information watch television programming computer", 
+      "title": "tv computer"
+    }, 
+    "title": "tv on computer"
+  }, 
+  {
+    "qid": "121", 
+    "desc": "Find out what the \"sit and reach test\" is.", 
+    "processed": {
+      "desc": "find sit reach test", 
+      "title": "sit reach test"
+    }, 
+    "title": "sit and reach test"
+  }, 
+  {
+    "qid": "122", 
+    "desc": "What is the history of the Culpeper National Cemetery?", 
+    "processed": {
+      "desc": "history culpeper national cemetery", 
+      "title": "culpeper national cemetery"
+    }, 
+    "title": "culpeper national cemetery"
+  }, 
+  {
+    "qid": "123", 
+    "desc": "What is von Willebrand Disease?", 
+    "processed": {
+      "desc": "von willebrand disease", 
+      "title": "von willebrand disease"
+    }, 
+    "title": "von willebrand disease"
+  }, 
+  {
+    "qid": "124", 
+    "desc": "Find information about the Bowflex Power Pro.", 
+    "processed": {
+      "desc": "find information bowflex power pro", 
+      "title": "bowflex power pro"
+    }, 
+    "title": "bowflex power pro"
+  }, 
+  {
+    "qid": "125", 
+    "desc": "What is the difference between butter and margarine?", 
+    "processed": {
+      "desc": "difference butter margarine", 
+      "title": "butter margarine"
+    }, 
+    "title": "butter and margarine"
+  }, 
+  {
+    "qid": "126", 
+    "desc": "Find a map of the inside of the US Capitol.", 
+    "processed": {
+      "desc": "find map capitol", 
+      "title": "capitol map"
+    }, 
+    "title": "us capitol map"
+  }, 
+  {
+    "qid": "127", 
+    "desc": "Find information for tourists about Dutchess County, NY.", 
+    "processed": {
+      "desc": "find information tourists dutchess county ny", 
+      "title": "dutchess county tourism"
+    }, 
+    "title": "dutchess county tourism"
+  }, 
+  {
+    "qid": "128", 
+    "desc": "What do atypical squamous cells mean on a pap smear test?", 
+    "processed": {
+      "desc": "atypical squamous cells mean pap smear test", 
+      "title": "atypical squamous cells"
+    }, 
+    "title": "atypical squamous cells"
+  }, 
+  {
+    "qid": "129", 
+    "desc": "Find general information about Iowa's food stamps program.", 
+    "processed": {
+      "desc": "find general information iowa s food stamps program", 
+      "title": "iowa food stamp program"
+    }, 
+    "title": "iowa food stamp program"
+  }, 
+  {
+    "qid": "130", 
+    "desc": "Find information about the planet Uranus.", 
+    "processed": {
+      "desc": "find information planet uranus", 
+      "title": "fact uranus"
+    }, 
+    "title": "fact on uranus"
+  }, 
+  {
+    "qid": "131", 
+    "desc": "What does the phrase, \"equal opportunity employer\" mean?", 
+    "processed": {
+      "desc": "phrase equal opportunity employer mean", 
+      "title": "equal opportunity employer"
+    }, 
+    "title": "equal opportunity employer"
+  }, 
+  {
+    "qid": "132", 
+    "desc": "lyrics of songs written for Mothers' Day", 
+    "processed": {
+      "desc": "lyrics songs written mothers", 
+      "title": "mothers songs"
+    }, 
+    "title": "mothers day songs"
+  }, 
+  {
+    "qid": "133", 
+    "desc": "Who said \"all men are created equal\"?", 
+    "processed": {
+      "desc": "men created equal", 
+      "title": "men created equal"
+    }, 
+    "title": "all men are created equal"
+  }, 
+  {
+    "qid": "134", 
+    "desc": "What different types of electronic skeet shooting games are available?", 
+    "processed": {
+      "desc": "different types electronic skeet shooting games available", 
+      "title": "electronic skeet shoot"
+    }, 
+    "title": "electronic skeet shoot"
+  }, 
+  {
+    "qid": "135", 
+    "desc": "how to play the board game \"Source of the Nile\"", 
+    "processed": {
+      "desc": "play board game source nile", 
+      "title": "source nile"
+    }, 
+    "title": "source of the nile"
+  }, 
+  {
+    "qid": "136", 
+    "desc": "What are the registration requirements for enrolling at American Military University?", 
+    "processed": {
+      "desc": "registration requirements enrolling american military university", 
+      "title": "american military university"
+    }, 
+    "title": "american military university"
+  }, 
+  {
+    "qid": "137", 
+    "desc": "Looking for locations and dates of rock and gem shows.", 
+    "processed": {
+      "desc": "looking locations dates rock gem shows", 
+      "title": "rock gem shows"
+    }, 
+    "title": "rock and gem shows"
+  }, 
+  {
+    "qid": "138", 
+    "desc": "contact information for Jax Chemical Company", 
+    "processed": {
+      "desc": "contact information jax chemical company", 
+      "title": "jax chemical company"
+    }, 
+    "title": "jax chemical company"
+  }, 
+  {
+    "qid": "139", 
+    "desc": "discussion of the impending sale of the Rocky Mountain News", 
+    "processed": {
+      "desc": "discussion impending sale rocky mountain news", 
+      "title": "rocky mountain news"
+    }, 
+    "title": "rocky mountain news"
+  }, 
+  {
+    "qid": "140", 
+    "desc": "demographics of East Ridge High School in Lick Creek, Kentucky", 
+    "processed": {
+      "desc": "demographics east ridge high school lick creek kentucky", 
+      "title": "east ridge high school"
+    }, 
+    "title": "east ridge high school"
+  }, 
+  {
+    "qid": "141", 
+    "desc": "information and procedures for registering vehicles in Virginia", 
+    "processed": {
+      "desc": "information procedures registering vehicles virginia", 
+      "title": "va dmv registration"
+    }, 
+    "title": "va dmv registration"
+  }, 
+  {
+    "qid": "142", 
+    "desc": "information about the sales tax in Illinois: what is the rate and what is it levied on", 
+    "processed": {
+      "desc": "information sales tax illinois rate levied", 
+      "title": "illinois state tax"
+    }, 
+    "title": "illinois state tax"
+  }, 
+  {
+    "qid": "143", 
+    "desc": "locations and reviews of health clubs in Arkadelphia, Arkansas", 
+    "processed": {
+      "desc": "locations reviews health clubs arkadelphia arkansas", 
+      "title": "arkadelphia health club"
+    }, 
+    "title": "arkadelphia health club"
+  }, 
+  {
+    "qid": "144", 
+    "desc": "information on where I could buy a new or used trombone", 
+    "processed": {
+      "desc": "information buy new trombone", 
+      "title": "trombone sale"
+    }, 
+    "title": "trombone for sale"
+  }, 
+  {
+    "qid": "145", 
+    "desc": "information on vines that can be grown in shady areas", 
+    "processed": {
+      "desc": "information vines grown shady areas", 
+      "title": "vines shade"
+    }, 
+    "title": "vines for shade"
+  }, 
+  {
+    "qid": "146", 
+    "desc": "What services are provided by the Sherwood Regional Library?", 
+    "processed": {
+      "desc": "services provided sherwood regional library", 
+      "title": "sherwood regional library"
+    }, 
+    "title": "sherwood regional library"
+  }, 
+  {
+    "qid": "147", 
+    "desc": "What is the definition of tangible personal property for tax purposes?", 
+    "processed": {
+      "desc": "definition tangible personal property tax purposes", 
+      "title": "tangible personal property tax"
+    }, 
+    "title": "tangible personal property tax"
+  }, 
+  {
+    "qid": "148", 
+    "desc": "find information/timeline about Martha Stewart's insider trading case", 
+    "processed": {
+      "desc": "find information timeline martha stewart s insider trading case", 
+      "title": "martha stewart imclone"
+    }, 
+    "title": "martha stewart and imclone"
+  }, 
+  {
+    "qid": "149", 
+    "desc": "How likely is a volcanic eruption at Yellowstone National Park, and what would be the effects of such an eruption?", 
+    "processed": {
+      "desc": "likely volcanic eruption yellowstone national park effects eruption", 
+      "title": "uplift yellowstone national park"
+    }, 
+    "title": "uplift at yellowstone national park"
+  }, 
+  {
+    "qid": "150", 
+    "desc": "What are the requirements to become a Tennessee Highway Patrol State Trooper?", 
+    "processed": {
+      "desc": "requirements tennessee highway patrol state trooper", 
+      "title": "tn highway patrol"
+    }, 
+    "title": "tn highway patrol"
+  }, 
+  {
+    "qid": "151", 
+    "desc": "What is a 403b plan?", 
+    "processed": {
+      "desc": "403b plan", 
+      "title": "403b"
+    }, 
+    "title": "403b"
+  }, 
+  {
+    "qid": "152", 
+    "desc": "What home remedies are there for angular cheilitis?", 
+    "processed": {
+      "desc": "home remedies angular cheilitis", 
+      "title": "angular cheilitis"
+    }, 
+    "title": "angular cheilitis"
+  }, 
+  {
+    "qid": "153", 
+    "desc": "Find general information on tourist activities in Pennsylvania's Pocono Mountains.", 
+    "processed": {
+      "desc": "find general information tourist activities pennsylvania s pocono mountains", 
+      "title": "pocono"
+    }, 
+    "title": "pocono"
+  }, 
+  {
+    "qid": "154", 
+    "desc": "Find information on nutritional or health benefits of figs.", 
+    "processed": {
+      "desc": "find information nutritional health benefits figs", 
+      "title": "figs"
+    }, 
+    "title": "figs"
+  }, 
+  {
+    "qid": "155", 
+    "desc": "Find a picture of the Last Supper painting by Leonardo da Vinci.", 
+    "processed": {
+      "desc": "find picture supper painting leonardo da vinci", 
+      "title": "supper painting"
+    }, 
+    "title": "last supper painting"
+  }, 
+  {
+    "qid": "156", 
+    "desc": "What online programs are offered by the University of Phoenix?", 
+    "processed": {
+      "desc": "online programs offered university phoenix", 
+      "title": "university phoenix"
+    }, 
+    "title": "university of phoenix"
+  }, 
+  {
+    "qid": "157", 
+    "desc": "Find a listing of Beatles songs.", 
+    "processed": {
+      "desc": "find listing beatles songs", 
+      "title": "beatles rock band"
+    }, 
+    "title": "the beatles rock band"
+  }, 
+  {
+    "qid": "158", 
+    "desc": "How does a septic system work?", 
+    "processed": {
+      "desc": "septic system work", 
+      "title": "septic system design"
+    }, 
+    "title": "septic system design"
+  }, 
+  {
+    "qid": "159", 
+    "desc": "What K-12 schools are in Porterville, CA?", 
+    "processed": {
+      "desc": "k 12 schools porterville ca", 
+      "title": "porterville"
+    }, 
+    "title": "porterville"
+  }, 
+  {
+    "qid": "160", 
+    "desc": "Find kabob recipes.", 
+    "processed": {
+      "desc": "find kabob recipes", 
+      "title": "grilling"
+    }, 
+    "title": "grilling"
+  }, 
+  {
+    "qid": "161", 
+    "desc": "What are some small space decorating dos and don'ts?", 
+    "processed": {
+      "desc": "small space decorating dos don ts", 
+      "title": "furniture small spaces"
+    }, 
+    "title": "furniture for small spaces"
+  }, 
+  {
+    "qid": "162", 
+    "desc": "What are \"do not resuscitate\" orders and how do you get one in place?", 
+    "processed": {
+      "desc": "resuscitate orders place", 
+      "title": "dnr"
+    }, 
+    "title": "dnr"
+  }, 
+  {
+    "qid": "163", 
+    "desc": "Provide Arkansas tourist information.", 
+    "processed": {
+      "desc": "arkansas tourist information", 
+      "title": "arkansas"
+    }, 
+    "title": "arkansas"
+  }, 
+  {
+    "qid": "164", 
+    "desc": "What hobby stores carry trains?", 
+    "processed": {
+      "desc": "hobby stores carry trains", 
+      "title": "hobby stores"
+    }, 
+    "title": "hobby stores"
+  }, 
+  {
+    "qid": "165", 
+    "desc": "Find a picture of a blue-throated hummingbird.", 
+    "processed": {
+      "desc": "find picture blue throated hummingbird", 
+      "title": "blue throated hummingbird"
+    }, 
+    "title": "blue throated hummingbird"
+  }, 
+  {
+    "qid": "166", 
+    "desc": "What type of careers are there for computer programmers?", 
+    "processed": {
+      "desc": "type careers computer programmers", 
+      "title": "computer programming"
+    }, 
+    "title": "computer programming"
+  }, 
+  {
+    "qid": "167", 
+    "desc": "Find information on Barbados history.", 
+    "processed": {
+      "desc": "find information barbados history", 
+      "title": "barbados"
+    }, 
+    "title": "barbados"
+  }, 
+  {
+    "qid": "168", 
+    "desc": "What are the causes of lipoma tumors in humans?", 
+    "processed": {
+      "desc": "causes lipoma tumors humans", 
+      "title": "lipoma"
+    }, 
+    "title": "lipoma"
+  }, 
+  {
+    "qid": "169", 
+    "desc": "What were the major battles in the US civil war?", 
+    "processed": {
+      "desc": "major battles civil war", 
+      "title": "battles civil war"
+    }, 
+    "title": "battles in the civil war"
+  }, 
+  {
+    "qid": "170", 
+    "desc": "Find kids' scooters for sale.", 
+    "processed": {
+      "desc": "find kids scooters sale", 
+      "title": "scooters"
+    }, 
+    "title": "scooters"
+  }, 
+  {
+    "qid": "171", 
+    "desc": "What movies has Ron Howard directed?", 
+    "processed": {
+      "desc": "movies ron howard directed", 
+      "title": "ron howard"
+    }, 
+    "title": "ron howard"
+  }, 
+  {
+    "qid": "172", 
+    "desc": "What training is required to become a paralegal?", 
+    "processed": {
+      "desc": "training required paralegal", 
+      "title": "paralegal"
+    }, 
+    "title": "becoming a paralegal"
+  }, 
+  {
+    "qid": "173", 
+    "desc": "Find information on hip fractures in the elderly.", 
+    "processed": {
+      "desc": "find information hip fractures elderly", 
+      "title": "hip fractures"
+    }, 
+    "title": "hip fractures"
+  }, 
+  {
+    "qid": "174", 
+    "desc": "Where can I learn about rock painting or buy a rock-painting kit?", 
+    "processed": {
+      "desc": "learn rock painting buy rock painting kit", 
+      "title": "rock art"
+    }, 
+    "title": "rock art"
+  }, 
+  {
+    "qid": "175", 
+    "desc": "What are the symptoms of a heart attack?", 
+    "processed": {
+      "desc": "symptoms heart attack", 
+      "title": "signs heartattack"
+    }, 
+    "title": "signs of a heartattack"
+  }, 
+  {
+    "qid": "176", 
+    "desc": "How do you weather strip automobile windows and doors?", 
+    "processed": {
+      "desc": "weather strip automobile windows doors", 
+      "title": "weather strip"
+    }, 
+    "title": "weather strip"
+  }, 
+  {
+    "qid": "177", 
+    "desc": "What are the different types of long term care insurance policies?", 
+    "processed": {
+      "desc": "different types long term care insurance policies", 
+      "title": "best long term care insurance"
+    }, 
+    "title": "best long term care insurance"
+  }, 
+  {
+    "qid": "178", 
+    "desc": "What time and temperature should be used to roast a pork tenderloin?", 
+    "processed": {
+      "desc": "time temperature roast pork tenderloin", 
+      "title": "pork tenderloin"
+    }, 
+    "title": "pork tenderloin"
+  }, 
+  {
+    "qid": "179", 
+    "desc": "Find a timeline for African Americans in the United States.", 
+    "processed": {
+      "desc": "find timeline african americans united states", 
+      "title": "black history"
+    }, 
+    "title": "black history"
+  }, 
+  {
+    "qid": "180", 
+    "desc": "Find inexpensive hotels in New York City.", 
+    "processed": {
+      "desc": "find inexpensive hotels new york city", 
+      "title": "newyork hotels"
+    }, 
+    "title": "newyork hotels"
+  }, 
+  {
+    "qid": "181", 
+    "desc": "What is a good way to begin collecting old coins?", 
+    "processed": {
+      "desc": "good way begin collecting old coins", 
+      "title": "old coins"
+    }, 
+    "title": "old coins"
+  }, 
+  {
+    "qid": "182", 
+    "desc": "What are the ways you can quit smoking?", 
+    "processed": {
+      "desc": "ways quit smoking", 
+      "title": "quit smoking"
+    }, 
+    "title": "quit smoking"
+  }, 
+  {
+    "qid": "183", 
+    "desc": "What are some Kansas City, MO tourist attractions?", 
+    "processed": {
+      "desc": "kansas city mo tourist attractions", 
+      "title": "kansas city mo"
+    }, 
+    "title": "kansas city mo"
+  }, 
+  {
+    "qid": "184", 
+    "desc": "What issues were addressed in the Civil Rights Act of 1964?", 
+    "processed": {
+      "desc": "issues addressed civil rights act 1964", 
+      "title": "civil right movement"
+    }, 
+    "title": "civil right movement"
+  }, 
+  {
+    "qid": "185", 
+    "desc": "How do I get my free annual credit report?", 
+    "processed": {
+      "desc": "free annual credit report", 
+      "title": "credit report"
+    }, 
+    "title": "credit report"
+  }, 
+  {
+    "qid": "186", 
+    "desc": "What campuses are part of the University of North Carolina?", 
+    "processed": {
+      "desc": "campuses part university north carolina", 
+      "title": "unc"
+    }, 
+    "title": "unc"
+  }, 
+  {
+    "qid": "187", 
+    "desc": "Find a map of the islands of Vanuatu.", 
+    "processed": {
+      "desc": "find map islands vanuatu", 
+      "title": "vanuatu"
+    }, 
+    "title": "vanuatu"
+  }, 
+  {
+    "qid": "188", 
+    "desc": "What is the best internet phone service?", 
+    "processed": {
+      "desc": "best internet phone service", 
+      "title": "internet phone service"
+    }, 
+    "title": "internet phone service"
+  }, 
+  {
+    "qid": "189", 
+    "desc": "Find the General Schedule pay tables.", 
+    "processed": {
+      "desc": "find general schedule pay tables", 
+      "title": "gs pay rate"
+    }, 
+    "title": "gs pay rate"
+  }, 
+  {
+    "qid": "190", 
+    "desc": "Find Brooks Brothers online promotional coupons.", 
+    "processed": {
+      "desc": "find brooks brothers online promotional coupons", 
+      "title": "brooks brothers clearance"
+    }, 
+    "title": "brooks brothers clearance"
+  }, 
+  {
+    "qid": "191", 
+    "desc": "Find information on the racing schedule at Churchill Downs.", 
+    "processed": {
+      "desc": "find information racing schedule churchill downs", 
+      "title": "churchill downs"
+    }, 
+    "title": "churchill downs"
+  }, 
+  {
+    "qid": "192", 
+    "desc": "Find beachfront condos for sale in Florida.", 
+    "processed": {
+      "desc": "find beachfront condos sale florida", 
+      "title": "condos florida"
+    }, 
+    "title": "condos in florida"
+  }, 
+  {
+    "qid": "193", 
+    "desc": "Can I order dog clean-up bags online?", 
+    "processed": {
+      "desc": "order dog clean bags online", 
+      "title": "dog clean bags"
+    }, 
+    "title": "dog clean up bags"
+  }, 
+  {
+    "qid": "194", 
+    "desc": "What breeds of small or toy dog hybrids are there?", 
+    "processed": {
+      "desc": "breeds small toy dog hybrids", 
+      "title": "designer dog breeds"
+    }, 
+    "title": "designer dog breeds"
+  }, 
+  {
+    "qid": "195", 
+    "desc": "Where can I buy replacement parts for pressure washers?", 
+    "processed": {
+      "desc": "buy replacement parts pressure washers", 
+      "title": "pressure washers"
+    }, 
+    "title": "pressure washers"
+  }, 
+  {
+    "qid": "196", 
+    "desc": "What causes a sore throat?", 
+    "processed": {
+      "desc": "causes sore throat", 
+      "title": "sore throat"
+    }, 
+    "title": "sore throat"
+  }, 
+  {
+    "qid": "197", 
+    "desc": "What is the state flower of Idaho?", 
+    "processed": {
+      "desc": "state flower idaho", 
+      "title": "idaho state flower"
+    }, 
+    "title": "idaho state flower"
+  }, 
+  {
+    "qid": "198", 
+    "desc": "What events are held at the Indiana State Fairgrounds?", 
+    "processed": {
+      "desc": "events held indiana state fairgrounds", 
+      "title": "indiana state fairgrounds"
+    }, 
+    "title": "indiana state fairgrounds"
+  }, 
+  {
+    "qid": "199", 
+    "desc": "What are the primary symptoms or signs of fybromyalgia?", 
+    "processed": {
+      "desc": "primary symptoms signs fybromyalgia", 
+      "title": "fybromyalgia"
+    }, 
+    "title": "fybromyalgia"
+  }, 
+  {
+    "qid": "200", 
+    "desc": "Find flight information for the Ontario, CA airport.", 
+    "processed": {
+      "desc": "find flight information ontario ca airport", 
+      "title": "ontario california airport"
+    }, 
+    "title": "ontario california airport"
+  }
+]

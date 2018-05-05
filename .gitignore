@@ -1,0 +1,15 @@
+.*.swp
+DrQA
+wiki.en.*
+experiments/*/DR.jsonl.gz
+experiments/*/DRDesc.jsonl.gz
+experiments/*/corpus.json.gz
+experiments/*/corpus.trecweb.gz
+experiments/*/doc-tfidf.npz
+experiments/*/doc.db
+experiments/*/freqstats.gz
+experiments/*/index
+experiments/*/passages/
+experiments/*/retriever.json
+experiments/*/runs/
+experiments/*/vectors/
