@@ -11,7 +11,8 @@ If you use the data or code from this repo, please cite the following paper:
   title = {Ranking Documents by Answer-Passage Quality},
   booktitle = {Proceedings of {SIGIR} '18},
   year = {2018},
-  note = {to appear}
+  pages = {335--344},
+  publisher = {ACM}
 } 
 ```
 
